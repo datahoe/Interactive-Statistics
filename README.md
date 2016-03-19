@@ -1,4 +1,3 @@
 # Interactive-Statistics
 
-
-## Interactive material(plot) for Statistics
+Interactive material(plot) for Statistics
